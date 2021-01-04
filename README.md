@@ -4,6 +4,9 @@ ChatBot based on Natural Language Processing, which facilitates interaction betw
 
 ✅ Keywords: Python, Flask, NLTK, Spacy.
 
-![](5.PNG)
 
 ![](8.PNG)
+
+
+![](5.PNG)
+
